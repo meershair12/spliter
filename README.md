@@ -1,3 +1,3 @@
 # spliter
 
-git clohe https://github.com/meershair12/spliter
+git clone https://github.com/meershair12/spliter
